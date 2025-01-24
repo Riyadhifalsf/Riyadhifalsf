@@ -1,5 +1,5 @@
 <h1 align="left">Hello Everyone 👋, My Name Is Riyadhifal Saepul Fadilah</h1>
-<h3 align="center">Just 17 Y.O programmer & weebs who's like build web and crossplatform application</h3>
+<h3 align="left">Just 17 Y.O programmer & weebs who's like build web and crossplatform application</h3>
 <hr>
 
 ![MasterHead](https://i.imgur.com/z9D3Jg9.jpeg)
