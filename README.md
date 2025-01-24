@@ -2,7 +2,7 @@
 <h3 align="center">Just 17 Y.O programmer & weebs who's like build web and crossplatform application</h3>
 <hr>
 
-[![MasterHead](https://i.imgur.com/xSnH8pv.png)]
+![MasterHead](https://i.imgur.com/z9D3Jg9.jpeg)
 
 - 🌱 I’m currently learning **Back End & Mobile App Development**
 
