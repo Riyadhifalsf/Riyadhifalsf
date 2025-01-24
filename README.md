@@ -61,14 +61,10 @@
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /> </a>
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" /> </a>
 </p>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=HamsterKaget&show_icons=true&theme=dracula&custom_title=HamsterKaget-Stats" alt="hamsterkaget" /> <br> </p>
-
-<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=HamsterKaget&theme=dracula" /> <br> </p>
+<br>
 
 <hr>
 <h3 align="center">More :</h3>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=hamsterkaget&label=Profile%20views&color=0e75b6&style=flat" alt="hamsterkaget" /> <a href="https://twitter.com/hamsterkageet" target="blank"> <br> <img src="https://img.shields.io/twitter/follow/hamsterkageet?logo=twitter&style=for-the-badge" alt="hamsterkageet" /></a> <br> <a href="https://www.buymeacoffee.com/hamsterkaget"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hamsterkaget" /></a> </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
