@@ -1,4 +1,4 @@
-[![MasterHead](https://imgur.com/XajdLT4)]
+<img src="https://imgur.com/XajdLT4">
 
 <h1 align="center">Hello Everyone 👋, My Name Is Riyadhifal Saepul Fadilah</h1>
 <h3 align="center">Just 17 Y.O programmer & weebs who's like build web and crossplatform application</h3>
