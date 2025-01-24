@@ -2,19 +2,18 @@
 <h3 align="left">Just 17 Y.O programmer & weebs who's like build web and crossplatform application</h3>
 <hr>
 
-![MasterHead](https://i.imgur.com/z9D3Jg9.jpeg)
+![Banner](https://i.imgur.com/z9D3Jg9.jpeg)
 
-- 🌱 I’m currently learning **Back End & Mobile App Development**
+## Tentang Saya
+- 🔭 Sedang mengerjakan: **Proyek Tebak Nada**
+- 🌱 Sedang belajar: **React dan TypeScript**
+- 💬 Tanya saya tentang: **HTML, CSS, dan JavaScript**
+- ✨ Motto: **Berkarya tanpa batas!**
 
-- 👨‍💻 All of my projects are available at [hamskaproject.my.id](https://hamskaproject.my.id)
-
-- 📝 I regularly write articles on [blog.hamskaproject.my.id](https://blog.hamskaproject.my.id)
-
-- 📫 How to reach me **radjaauliaalramdani@gmail.com**
-
-- 📄 Know about my experiences [hamskaproject.my.id](https://hamskaproject.my.id)
-
-- ⚡ Fun fact **i don't think i have fun fact**
+- ## Koneksi
+- [Portfolio](https://myportfolio.com)
+- [LinkedIn](https://linkedin.com/in/namakamu)
+- [Twitter](https://twitter.com/namakamu)
 
 <h3 align="center">Front & Back End:</h3>
 <p align="center">
