@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.discordapp.com/attachments/1332338849073991761/1332367200106844250/RIYADHIFAL_SAEPUL_FADILAH.png?ex=6794ff26&is=6793ada6&hm=01417baddbbed857a5e5fd7894093c054acb69c4bcbcbb900445c91d781b75b0&)
+[![MasterHead](https://cdn.discordapp.com/attachments/1332338849073991761/1332367200106844250/RIYADHIFAL_SAEPUL_FADILAH.png?ex=6794ff26&is=6793ada6&hm=01417baddbbed857a5e5fd7894093c054acb69c4bcbcbb900445c91d781b75b0&)]
 
 <h1 align="center">Hola 👋, I'm Radja Aulia A.K.A Hamster Kaget</h1>
 <h3 align="center">Just 17 Y.O programmer & weebs who's like build web and crossplatform application</h3>
