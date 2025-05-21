@@ -2,8 +2,6 @@
 <h1 align="left">Hello Everyone 👋, My Name Is Riyadhifal Saepul Fadilah</h1>
 <hr>
 
-![Banner](https://i.imgur.com/z9D3Jg9.jpeg)
-
 ## Tentang Saya
 - 🔭 Sedang mengerjakan: **Proyek Tebak Nada**
 - 🌱 Sedang belajar: **React dan TypeScript**
